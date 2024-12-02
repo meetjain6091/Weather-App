@@ -173,6 +173,7 @@
 //        return sdf.format((Date()))
 //    }
 //}
+//ABOVE CODE IS IS IMPLEMENTED WITHOUT SEARCH SUGGESTIONS
 package com.example.weatherapp
 
 import android.database.MatrixCursor
@@ -194,6 +195,14 @@ import retrofit2.converter.gson.GsonConverterFactory
 import java.text.SimpleDateFormat
 import java.util.Date
 import java.util.Locale
+
+
+//MY MEET JAIN
+
+//        If you need my service or you have any question then you can contact with me.
+
+//        LinkedIn account :  https://www.linkedin.com/in/meet-jain-19b9b0285/
+
 
 class MainActivity : AppCompatActivity() {
     private val binding: ActivityMainBinding by lazy {

@@ -15,14 +15,15 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginTop="24dp"
-        app:searchIcon="@drawable/search"
-        android:queryHint="@string/search"
         android:layout_marginEnd="8dp"
-        android:iconifiedByDefault="false"
         android:background="@drawable/searchviewshape"
+        android:contextClickable="true"
+        android:iconifiedByDefault="false"
+        android:queryHint="@string/search"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+        app:layout_constraintTop_toTopOf="parent"
+        app:searchIcon="@drawable/search">
 
     </androidx.appcompat.widget.SearchView>
 

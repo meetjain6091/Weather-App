@@ -9,6 +9,13 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
+//MY MEET JAIN
+
+//        If you need my service or you have any question then you can contact with me.
+
+//        LinkedIn account :  https://www.linkedin.com/in/meet-jain-19b9b0285/
+
+
 class SplashActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
