@@ -255,6 +255,9 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
+        val searchView = findViewById<SearchView>(R.id.searchView)
+        searchView.queryHint = "Search here..."
+
         fetchWeatherData("Mumbai")
         setUpSearchSuggestions()
     }
@@ -361,7 +364,7 @@ class MainActivity : AppCompatActivity() {
                         binding.lottieAnimationView.setAnimation(R.raw.sun)
                     }
                     "Party Clouds", "Clouds", "Overcast", "Mist", "Foggy" -> {
-                        binding.root.setBackgroundResource(R.drawable.colud_background)
+                        binding.root.setBackgroundResource(R.drawable.rain_background)
                         binding.lottieAnimationView.setAnimation(R.raw.cloud)
                     }
                     "Light Rains", "Drizzle", "Moderate Rain", "Showers", "Heavy Rain" -> {

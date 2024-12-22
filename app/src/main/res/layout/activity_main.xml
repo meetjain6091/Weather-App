@@ -19,13 +19,14 @@
         android:background="@drawable/searchviewshape"
         android:contextClickable="true"
         android:iconifiedByDefault="false"
-        android:queryHint="@string/search"
+        android:queryHint="Search A City Here"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:searchIcon="@drawable/search">
 
-    </androidx.appcompat.widget.SearchView>
+
+</androidx.appcompat.widget.SearchView>
 
     <TextView
         android:id="@+id/cityName"
