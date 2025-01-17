@@ -23,13 +23,13 @@ Add your OpenWeatherMap API key in the project.
 Build and run the app on your emulator or physical device.
 
 Screenshots
-<img src="IMG-20250117-WA0040.png" alt="Splash Screen" width="500">  
-<img src="IMG-20250117-WA0039.jpg" alt="Weather Details Screen" width="500">  
-<img src="IMG-20250117-WA0038.jpg" alt="Weather Details Screen" width="500">  
-<img src="IMG-20250117-WA0044.jpg" alt="Weather Details Screen" width="500">  
-<img src="IMG-20250117-WA0041.jpg" alt="Weather Details Screen" width="500">  
-<img src="IMG-20250117-WA0042.jpg" alt="Weather Details Screen" width="500">  
-<img src="IMG-20250117-WA0043.jpg" alt="Weather Details Screen" width="500">  
+<img src="IMG-20250117-WA0040.jpg" alt="Splash Screen" width="300">  
+<img src="IMG-20250117-WA0039.jpg" alt="Weather Details Screen" width="300">  
+<img src="IMG-20250117-WA0038.jpg" alt="Weather Details Screen" width="300">  
+<img src="IMG-20250117-WA0044.jpg" alt="Weather Details Screen" width="300">  
+<img src="IMG-20250117-WA0041.jpg" alt="Weather Details Screen" width="300">  
+<img src="IMG-20250117-WA0042.jpg" alt="Weather Details Screen" width="300">  
+<img src="IMG-20250117-WA0043.jpg" alt="Weather Details Screen" width="300">  
 
 Demo Video
 Watch the demo video to see the app in action:[Watch the Demo Video](WeatherDemo.mp4)
