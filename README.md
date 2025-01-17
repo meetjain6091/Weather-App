@@ -23,21 +23,21 @@ Add your OpenWeatherMap API key in the project.
 Build and run the app on your emulator or physical device.
 
 Screenshots
-![Splash Screen](IMG-20250117-WA0040.png)  
-![Weather Details Screen](IMG-20250117-WA0039.jpg)  
-![Weather Details Screen](IMG-20250117-WA0038.jpg)  
-![Weather Details Screen](IMG-20250117-WA0044.jpg)  
-![Weather Details Screen](IMG-20250117-WA0041.jpg)  
-![Weather Details Screen](IMG-20250117-WA0042.jpg)  
-![Weather Details Screen](IMG-20250117-WA0043.jpg)  
+<img src="IMG-20250117-WA0040.png" alt="Splash Screen" width="500">  
+<img src="IMG-20250117-WA0039.jpg" alt="Weather Details Screen" width="500">  
+<img src="IMG-20250117-WA0038.jpg" alt="Weather Details Screen" width="500">  
+<img src="IMG-20250117-WA0044.jpg" alt="Weather Details Screen" width="500">  
+<img src="IMG-20250117-WA0041.jpg" alt="Weather Details Screen" width="500">  
+<img src="IMG-20250117-WA0042.jpg" alt="Weather Details Screen" width="500">  
+<img src="IMG-20250117-WA0043.jpg" alt="Weather Details Screen" width="500">  
 
-<video width="100%" controls>
-  <source src="demo/your_video_filename.mp4" type="video/mp4">
+Demo Video
+Watch the demo video to see the app in action:[Watch the Demo Video](WeatherDemo.mp4)
+<video width="600" controls>
+  <source src="Weather Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-Demo Video
-Watch the demo video to see the app in action: [Watch the Demo Video](Weather Demo.mp4)
 
 Contact
-For any questions or suggestions, reach out to Meet Mukesh Jain.
+For any questions or suggestions, reach out to Meet Mukesh Jain at meetjain6091@gmail.com
