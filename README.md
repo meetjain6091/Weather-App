@@ -96,11 +96,9 @@ The **Weather App** is a native Kotlin-based Android application that delivers r
 ## 🎥 Video Demo
 
 <div align="center">
-  <video src="screenshots/Weather%20Demo.mp4" width="320" controls muted autoplay loop>
-    Your browser does not support the video tag.
-  </video>
+  <video src="https://github.com/meetjain6091/Weather-App/raw/main/screenshots/Weather%20Demo.mp4" width="320" controls="controls" muted="muted" autoplay="autoplay" loop="loop"></video>
   <br>
   <sup><i>A quick walkthrough of the dynamic UI and real-time data fetching.</i></sup>
+  <br><br>
+  <b><a href="https://github.com/meetjain6091/Weather-App/raw/main/screenshots/Weather%20Demo.mp4">▶️ Click here to view the video directly if the player doesn't load</a></b>
 </div>
-
----
